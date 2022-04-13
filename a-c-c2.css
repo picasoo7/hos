@@ -3,43 +3,43 @@
 	color: #fff;
 }
 ::-moz-selection {
-	background: #fc4349;
+	background: #fbff07;
 	color: #fff;
 }
 header {
-	background: #fc4349;
+	background: #fbff07;
 }
 .section-title-wrapper h3:before {
-	background: #fc4349;
+	background: #fbff07;
 }
 .search-input-wrapper span.material-icons-two-tone {
-	color: #fc4349;
+	color: #fbff07;
 }
 .listing-item-by-val {
-	color: #fc4349;
+	color: #fbff07;
 }
 #app-step-by {
-    color: #fc4349;
+    color: #fbff07;
 }
 .step-loader .ball-scale-multiple>div {
-	background-color: #fc4349;
+	background-color: #fbff07;
 }
 #s-p-c-title {
-	color: #fc4349;
+	color: #fbff07;
 }
 .s-p-c-btn {
 	text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.1);
 	color: #fff;
-	background: #fc4349;
+	background: #fbff07;
 }
 #proccessing-outer-wrapper {
-	background: #fc4349;
+	background: #fbff07;
 }
 .proccessing-loadbar div {
-	background: #fc4349;
+	background: #fbff07;
 }
 .ball-scale-multiple>div {
-	background-color: #fc4349;
+	background-color: #fbff07;
 }
 .d-b-notice-wrapper span.material-icons-two-tone {
 	filter: invert(44%) sepia(96%) saturate(3005%) hue-rotate(330deg) brightness(96%) contrast(106%);
